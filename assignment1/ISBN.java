@@ -1,4 +1,4 @@
-//By Alena Midgen 260862650
+//By Alena Midgen 
 public class ISBN {
 	public static void main(String[] args) {
 		
